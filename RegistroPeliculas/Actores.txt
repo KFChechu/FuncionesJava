@@ -1,0 +1,15 @@
+1021;Penélope Cruz;ES
+1072;Javier Bardem;ES
+1083;Luis Tosar;ES
+1114;Woody Allen;US
+1456;Kristen Stewart;US
+1787;Steve Carell;US 
+1438;Roberto Benigni;IT
+1940;Michael Fassbender;US
+1083;Clandestino Falso;ES
+1612;Brad Pitt;US
+1913;Bruno Ganz;US
+1164;Scarlett Johansson;US
+1915;Rebecca Hall;US
+1900;Sergio García;ES
+1999;Compañero laboratorio;ES

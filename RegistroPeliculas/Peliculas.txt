@@ -1,0 +1,28 @@
+Escobar;Drama;2017
+1021
+1072
+ma ma;Drama;2015
+1021
+1083
+A Roma con amor;Comedia,Romance;2012
+1021
+1114
+1325
+1319
+1787 
+Café Society;Comedia,Romance";2016
+1325
+1456
+1787
+El consejero; Thriller;2013
+1021
+1072
+1940
+1561
+1612
+1913
+Vicky Cristina Barcelona;Comedia,Romance;2008
+1021
+1072
+1114
+1915
